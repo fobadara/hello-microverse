@@ -2,7 +2,7 @@
 
 A site displaying "Hello Microverse"
 
-![screenshot](images/hello-microverse.gif)
+![screenshot](images/Hello-Microverse.gif)
 
 It displays a blue hello world text, centred vertically and horizontally using margin and text-align properties in CSS 
 
@@ -15,8 +15,6 @@ It displays a blue hello world text, centred vertically and horizontally using m
 ●Linters
 
 **Live Demo**
-
-[Live Demo Link](https://www.loom.com/share/)16dbc9ea55754157985d307136558780)
 
 **Getting Started**
 
