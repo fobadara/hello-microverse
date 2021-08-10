@@ -4,15 +4,15 @@ A site displaying "Hello Microverse"
 
 ![screenshot](images/Hello-Microverse.gif)
 
-It displays a blue hello world text, centred vertically and horizontally using margin and text-align properties in CSS 
+It displays a blue hello world text, centred vertically and horizontally using margin and text-align properties in CSS
 
 **Built With**
 
-●HTML
+● HTML
 
-●CSS
+● CSS
 
-●Linters
+● Linters
 
 **Live Demo**
 
@@ -20,14 +20,13 @@ It displays a blue hello world text, centred vertically and horizontally using m
 
 To get a local copy up and running follow these simple example steps.
 
--clone the app by running this command 
+-clone the app by running this command
 
-:white_large_square: ```git clone  https://github.com/fobadara/Greetings.git```
+:white_large_square: `git clone https://github.com/fobadara/Greetings.git`
 
-:white_large_square: ```cd  greetings```
+:white_large_square: `cd greetings`
 
 :white_large_square: Open in browser
-
 
 **Prerequisites**
 -You will be needing:
@@ -35,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 -A text editor
 
 **Run tests**
--You can run tests by reloading on the pull request I have created or simple create a pull rrequest of your own 
+-You can run tests by reloading on the pull request I have created or simple create a pull rrequest of your own
 **Authors**
 👤 Abdulfatai Badara
 
