@@ -48,7 +48,8 @@ GitHub: github.com/fobadara
 
 Twitter: fob90s@twitter.com
 
-🤝 Contributing
+🤝
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
