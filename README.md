@@ -1,4 +1,4 @@
-# hello-microverse
+# Hello-microverse
 
 A site displaying "Hello Microverse"
 
@@ -12,7 +12,11 @@ It displays a blue hello world text, centred vertically and horizontally using m
 
 ● CSS
 
+**Technologies used**
+
 ● Linters
+
+● Git and Github
 
 **Getting Started**
 
@@ -52,10 +56,10 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
-## Show your support
+**Show your support**
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+**Acknowledgments**
 
 Hat tip to anyone whose code was used
